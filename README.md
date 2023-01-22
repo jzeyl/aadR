@@ -1,2 +1,2 @@
 # aadR
-connect to animal audiogram database
+Scripts to connect to animal audiogram database API to view audiograms in R
