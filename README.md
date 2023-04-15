@@ -3,9 +3,9 @@ Scripts to connect to the [animal audiogram database API](https://github.com/MfN
 
 |Function name|Task|
 |--|--|
-|species_available()|Prints list of species available in the database e.g. |
+|species_available()|Prints list of species available in the database |
 |browse_audiograms()|browse_audiograms() will create a dataframe with all the available species in the database, named 'aad_audiograms'|
-|get_species()|get_species("Eretmochelys imbricata") will create a dataframe with audiogram data for a specific species. 'audiograms_speciesname'|
+|get_species()|get_species("Eretmochelys imbricata") will create a dataframe with audiogram data for a specific species named 'audiograms_speciesname'|
 
 
 
